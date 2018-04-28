@@ -2,8 +2,8 @@
 
 Twitch HLS HTML template
 
-[thls]: http://twitchls.com
-[tw]: http://twitch.tv
+[thls] http://twitchls.com
+[tw] http://twitch.tv
 ---
 
 This is just an HTML template with twitch HLS integration as an embbed, fullscren iframe.
