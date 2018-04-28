@@ -1,6 +1,6 @@
 # create-hls
 
-Like [twitchhls][thls]
+Twitch HLS HTML template
 
 [thls]: http://twitchls.com
 [tw]: http://twitch.tv
@@ -20,8 +20,6 @@ Related:
 
 ---
 
-
-
----
-
 Made with ❤ by Twich users (h2x / crumble team)
+
+Seidan did all the 💩 stuff
