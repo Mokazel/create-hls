@@ -8,11 +8,7 @@ Like [twitchhls][thls]
 
 This is just an HTML template with twitch HLS integration as an embbed, fullscren iframe.
 
-You can build stuff on top of it, or just use it to broadcast on your website.
-
----
-
-Made with ❤ by Twich users (h2x / crumble team)
+You can build stuff on top of it, or just use it to broadcast on your own website.
 
 ---
 
@@ -21,3 +17,11 @@ Related:
 - https://github.com/lebougui/hls-creator
 - https://github.com/video-dev/hls.js/
 - livestreamer
+
+---
+
+
+
+---
+
+Made with ❤ by Twich users (h2x / crumble team)
