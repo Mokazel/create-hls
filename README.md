@@ -11,13 +11,18 @@ This is just an HTML template with twitch HLS integration as an embbed, fullscre
 
 You can build stuff on top of it, or just use it to broadcast on your own website.
 
----
-
-Related: 
+## Related
 
 - https://github.com/lebougui/hls-creator
 - https://github.com/video-dev/hls.js/
 - livestreamer
+
+## Quick app
+
+```sh
+// You can then use a tool like zeit/pkg to build a standalone desktop app for your stream
+$ pkg http://example.com
+```
 
 ---
 
