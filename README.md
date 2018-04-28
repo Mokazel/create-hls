@@ -12,4 +12,4 @@ You can build stuff on top of it, or just use it to broadcast on your website.
 
 ---
 
-Made with ❤ by Twich users
+Made with ❤ by Twich users (h2x / crumble team)
