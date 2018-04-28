@@ -20,6 +20,6 @@ Related:
 
 ---
 
-Made with ❤ by Twich users (h2x / crumble team)
+Made with ❤ by some Twich users (h2x / crumble)
 
 Seidan did all the 💩 stuff
