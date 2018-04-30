@@ -23,9 +23,3 @@ You can build stuff on top of it, or just use it to broadcast on your own websit
 // You can then use a tool like zeit/pkg to build a standalone desktop app for your stream
 $ pkg http://example.com
 ```
-
----
-
-Made with ❤ by some Twich users (h2x / crumble)
-
-Seidan did all the 💩 stuff
