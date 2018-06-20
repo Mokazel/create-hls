@@ -27,7 +27,7 @@ $ pkg http://example.com
 
 Credits is left where credits is due:
 
-Thanks to twitch for their awesome gaming platform. Please consider turning off your addblocks or subscribe to twith turbo.
+Thanks to twitch for their awesome gaming platform. Please consider turning off your addblocks or subscribe to twitch turbo.
 
 # Question
 
