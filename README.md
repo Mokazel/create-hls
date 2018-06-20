@@ -7,7 +7,7 @@ Twitch HLS HTML template
 
 ---
 
-This is just an HTML template with twitch HLS integration as an embbed, fullscren iframe.
+This is just an HTML template with twitch HLS integration as an embbed, fullscreen iframe.
 
 You can build stuff on top of it, or just use it to broadcast on your own website.
 
